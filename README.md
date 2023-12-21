@@ -17,11 +17,11 @@
 
 <br>
 
-- A passionate Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- 🌱 I am a Frontend Web developer
+- 🥅 I love video games!
+- 🏆 I'm also having a great interest in competitive programming.
+- 🏸 Fun fact: The first computer “bug” was an actual real-life bug.
+- 📫 How to reach me: amirhossein.amiri.aa99@gmail.com
 
 <br><br>
 
