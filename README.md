@@ -11,7 +11,7 @@
 
 
 	
-## <picture><img src = "https://github.com/Aking16/aking16/raw/main/Developer.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/Aking16/aking16/main/Developer.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/aking16/aking16/raw/main/right_side.gif" width = 250px></picture>
 
