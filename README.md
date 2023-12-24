@@ -23,6 +23,8 @@
 
 <p align="center">
 
+- **More About Me**:
+
 - **Languages**:
     
     ![C#](https://img.shields.io/badge/Csharp%20-%232370ED.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -30,8 +32,7 @@
     ![Typescript](https://img.shields.io/badge/TypeScript%20-%23F7DF1E.svg?style=for-the-badge&logo=typescript&logoColor=black)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
- 
-- **More About Me**:   
+   
 
 - **Front-End Development**:
 
