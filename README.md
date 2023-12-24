@@ -6,10 +6,6 @@
 </p>
 
 
-<br>
-
-
-
 	
 ## <picture><img src = "https://github.com/Aking16/aking16/blob/main/developer.gif" width = 50px></picture> **About me**
 
@@ -23,8 +19,6 @@
 - 🏸 Fun fact: The first computer “bug” was an actual real-life bug.
 - 📫 How to reach me: amirhossein.amiri.aa99@gmail.com
 
-<br><br>
-
 
 
 <p align="center">
@@ -36,7 +30,7 @@
     ![Typescript](https://img.shields.io/badge/TypeScript%20-%23F7DF1E.svg?style=for-the-badge&logo=typescript&logoColor=black)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
-<br>   
+ 
     
 - **Front-End Development**:
 
@@ -45,13 +39,13 @@
    ![React](https://img.shields.io/badge/React%20-%23F7DF1E.svg?style=for-the-badge&logo=react&logoColor=black)
    ![NextJS](https://img.shields.io/badge/NextJS%20-%23F7DF1E.svg?style=for-the-badge&logo=nextjs&logoColor=black)
 
-<br>
+
 
 - **Cloud Hosting**:
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
     
-<br>
+
 
 - **Softwares and Tools**:
 
@@ -61,7 +55,7 @@
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
-<br>
+
 
 - **Learn List**:
 
@@ -73,7 +67,7 @@
 
 - AI
     
-<br>
+
 
 - **Extras**:
 
@@ -82,9 +76,6 @@
 
 </p>
 
-<br>
-<br>
-<br>
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
@@ -111,7 +102,7 @@
 </a>
 </li>
 
-<br>
+
 
 <li>
 <a href="https://twitter.com/0xabdulkhalid" target="_blank">
@@ -119,7 +110,7 @@
 </a>
 </li>
 
-<br>
+
 
 <li>
 <a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
@@ -129,5 +120,3 @@
 	
 </ul>
 </div>
-
-<br>
