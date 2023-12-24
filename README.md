@@ -34,9 +34,9 @@
 
 - **Languages**:
     
-    ![C#](https://img.shields.io/badge/Csharp%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-    ![Typescript](https://img.shields.io/badge/TypeScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+    ![C#](https://img.shields.io/badge/Csharp%20-%232370ED.svg?style=for-the-badge&logo=csharp&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=react&logoColor=black)
+    ![Typescript](https://img.shields.io/badge/TypeScript%20-%23F7DF1E.svg?style=for-the-badge&logo=typescript&logoColor=black)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br>   
@@ -45,8 +45,8 @@
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![React](https://img.shields.io/badge/React%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-   ![NextJS](https://img.shields.io/badge/NextJS%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   ![React](https://img.shields.io/badge/React%20-%23F7DF1E.svg?style=for-the-badge&logo=react&logoColor=black)
+   ![NextJS](https://img.shields.io/badge/NextJS%20-%23F7DF1E.svg?style=for-the-badge&logo=nextjs&logoColor=black)
 
 <br>
 
