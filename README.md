@@ -126,7 +126,7 @@
 [linkedin-url]: https://www.linkedin.com/in/amirhossein-amiri016
 
 [gmail-shield]: https://img.shields.io/badge/gmail:%20Amirhossein%20Amiri-EA4335?style=for-the-badge&logo=gmail&logoColor=white
-[gmail-url]: mailto: www.aking016@gmail.com
+[gmail-url]: www.aking016@gmail.com
 
 [telegram-shield]: https://img.shields.io/badge/Telegram:%20Amirhossein%20Amiri-26A5E4?style=for-the-badge&logo=telegram&logoColor=white
 [telegram-url]: https://t.me/AH_Amiiri
