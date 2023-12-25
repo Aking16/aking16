@@ -1,17 +1,12 @@
-
 <h1 align="center"><b>Hi , I'm Amirhossein Amiri </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFBF07&center=true&vCenter=true&multiline=true&random=false&width=450&height=160&lines=Hello+World!+I+am+Amirhossein+Amiri.;Front-End+Developer%2C;React+Developer%2C;Software+Engineering+Student%2C;Always+learning+new+things+in+life..." alt="Typing SVG" /></a>
-</p>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFBF07&center=true&vCenter=true&random=false&width=450&lines=Hello+World!+I+am+Amirhossein+Amiri.;Front-End+Developer%2C;React+Developer%2C;Software+Engineering+Student%2C;Always+learning+new+things+in+life..." alt="Typing SVG" /></a>
 
 
 	
-## <picture><img src = "https://github.com/Aking16/aking16/blob/main/developer.gif" width = 50px></picture> **About me**
+## **About me**
 
-<picture> <img align="right" src ="https://github.com/Aking16/aking16/blob/main/right_side.gif" width = 250px></picture>
-
-<br>
+<img align="right" src ="https://github.com/Aking16/aking16/blob/main/right_side.gif" width = 250px>
 
 - 🌱 I am a Frontend Web developer
 - 🥅 I love video games!
@@ -21,95 +16,121 @@
 
 
 
-<p align="center">
-
 ## **More About Me**:
+
+<img align="right" src ="https://github.com/Aking16/aking16/blob/main/aboutme.gif">
 
 - **Languages**:
     
-    ![C#](https://img.shields.io/badge/Csharp%20-%232370ED.svg?style=for-the-badge&logo=csharp&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=react&logoColor=black)
-    ![Typescript](https://img.shields.io/badge/TypeScript%20-%23F7DF1E.svg?style=for-the-badge&logo=typescript&logoColor=black)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+  ![JavaScript][javaScript-shield]
+  ![TypeScript][typeScript-shield]
+  ![C#][c#-shield]
+  ![Java][java-shield]
 
-   
+
 
 - **Front-End Development**:
+  
+  ![React][react-shield]
+  ![Next][next-shield]
 
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![React](https://img.shields.io/badge/React%20-%23F7DF1E.svg?style=for-the-badge&logo=react&logoColor=black)
-   ![NextJS](https://img.shields.io/badge/NextJS%20-%23F7DF1E.svg?style=for-the-badge&logo=nextjs&logoColor=black)
+
+
+- **UI Libraries**:
+   
+  ![Tailwind][tailwind-shield]
+  ![Bootstrap][bootstrap-shield]
+  ![Shadcn][shadcn-shield]
 
 
 
 - **Cloud Hosting**:
 
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
+  ![Github Pages][githubPages-shield]
+  ![Vercel][vercel-shield]
+
 
 
 - **Softwares and Tools**:
 
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+  ![Git][git-shield]
+  ![Github][github-shield]
+  ![Visual Studio][vs-shield]
+  ![Visual Studio Code][vsCode-shield]
+  ![Android Studio][androidStudio-shield]
+  ![Photoshop][photoshop-shield] 
 
 
 
 - **Learn List**:
 
-[Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+  ![Python][python-shield]
+  ![Django][django-shield]
+  ![Blazor][blazor-shield]
+  ![Asp.net][asp-shield]
+  ![Vim][vim-shield]
 
-- Blazor
-
-- asp.net
-
-- AI
-    
 
 
 - **Extras**:
 
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-
-
-</p>
+  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
 
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">**Github Stats**
-<br>
-
-<div align="center">
+## **Github Stats**
 
 <a href="https://github.com/aking16/">
-  <img src="https://github-readme-stats.vercel.app/api?username=aking16&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aking16&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="aking16"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=aking16&include_all_commits=true&count_private=true&show_icons=true&line_height=28&theme=holi" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aking16&show_icons=true&locale=en&layout=compact&line_height=20&theme=holi" width="375"  alt="aking16"/>
 </a>
-</div>
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"> **Contact Me**
+## **Contact Me**
 
-<div align='left'>
-<ul>
+<img align="right" src ="https://github.com/Aking16/aking16/blob/main/handshake.gif">
 
-<li>
 <a href="https://www.linkedin.com/in/amirhossein-amiri016" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  aking16-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+  <img src="https://img.shields.io/badge/linkedin:%20Amirhossein%20Amiri-405DE6?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
-</li>
 
-
-
-<li>
 <a href="mailto: www.aking016@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  aking16-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/gmail:%20Amirhossein%20Amiri-EA4335?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
-</li>
-	
-</ul>
-</div>
+
+<a href="https://t.me/AH_Amiiri" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram:%20Amirhossein%20Amiri-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://discord.com/users/668513995753259039" target="_blank">
+  <img src="https://img.shields.io/badge/Discord:%20akingg-5865F2?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 5px;" />
+</a>
+
+
+[c#-shield]: https://img.shields.io/badge/csharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white
+[javaScript-shield]: https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+[typeScript-shield]: https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
+[java-shield]: https://img.shields.io/badge/java-f89820?style=for-the-badge&logo=java&logoColor=white
+
+[react-shield]: https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black
+[next-shield]: https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+
+
+[tailwind-shield]: https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white
+[bootstrap-shield]: https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white
+[shadcn-shield]: https://img.shields.io/badge/shadcn-000000?style=for-the-badge&logo=shadcnui&logoColor=white
+
+[githubPages-shield]: https://img.shields.io/badge/github%20pages-222222?style=for-the-badge&logo=github&logoColor=white
+[vercel-shield]: https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white
+
+[git-shield]: https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white
+[github-shield]: https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white
+[vs-shield]: https://img.shields.io/badge/visual%20studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white
+[vsCode-shield]: https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white
+[androidStudio-shield]: https://img.shields.io/badge/android%20studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white
+[photoshop-shield]: https://img.shields.io/badge/adobe%20photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white
+
+[python-shield]: https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white
+[blazor-shield]: https://img.shields.io/badge/blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white
+[asp-shield]: https://img.shields.io/badge/asp.net-512BD4?style=for-the-badge&logo=dotnet&logoColor=white
+[vim-shield]: https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=vim&logoColor=white
+[django-shield]: https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white
