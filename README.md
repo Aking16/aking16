@@ -6,8 +6,6 @@
 	
 ## **About me**
 
-<img align="right" src ="https://github.com/Aking16/aking16/blob/main/right_side.gif" width=250px>
-
 - 🌱 I am a Frontend Web developer
 - 🥅 I love video games!
 - 🏆 I'm also having a great interest in competitive programming.
@@ -86,8 +84,6 @@
 </a>
 
 ## **Contact Me**
-
-<img align="right" src ="https://github.com/Aking16/aking16/blob/main/handshake.gif" width=250px>
 
 * [![Linkedin][linkedin-shield]][linkedin-url]
 * [![Gmail][gmail-shield]][gmail-url]
