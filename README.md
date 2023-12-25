@@ -85,10 +85,10 @@
 
 ## **Contact Me**
 
-* [![Linkedin][linkedin-shield]][linkedin-url]
-* [![Gmail][gmail-shield]][gmail-url]
-* [![Telegram][telegram-shield]][telegram-url]
-* [![Discord][discord-shield]][discord-url]
+[![Linkedin][linkedin-shield]][linkedin-url]
+[![Gmail][gmail-shield]][gmail-url]
+[![Telegram][telegram-shield]][telegram-url]
+[![Discord][discord-shield]][discord-url]
 
 
 
