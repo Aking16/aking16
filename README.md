@@ -89,10 +89,10 @@
 
 <img align="right" src ="https://github.com/Aking16/aking16/blob/main/handshake.gif" width=250px>
 
-[![Linkedin][linkedin-shield]][linkedin-url]
-[![Gmail][gmail-shield]][gmail-url]
-[![Telegram][telgram-shield]][telegram-url]
-[![Discord][discord-shield]][discord-url]
+* [![Linkedin][linkedin-shield]][linkedin-url]
+* [![Gmail][gmail-shield]][gmail-url]
+* [![Telegram][telgram-shield]][telegram-url]
+* [![Discord][discord-shield]][discord-url]
 
 
 
