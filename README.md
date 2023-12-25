@@ -89,21 +89,23 @@
 
 <img align="right" src ="https://github.com/Aking16/aking16/blob/main/handshake.gif" width=250px>
 
-<a href="https://www.linkedin.com/in/amirhossein-amiri016" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin:%20Amirhossein%20Amiri-405DE6?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
+<div>
+  <a href="https://www.linkedin.com/in/amirhossein-amiri016" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin:%20Amirhossein%20Amiri-405DE6?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+  </a>
 
-<a href="mailto: www.aking016@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/gmail:%20Amirhossein%20Amiri-EA4335?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
+  <a href="mailto: www.aking016@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/gmail:%20Amirhossein%20Amiri-EA4335?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+  </a>
 
-<a href="https://t.me/AH_Amiiri" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram:%20Amirhossein%20Amiri-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" style="margin-bottom: 5px;" />
-</a>
+  <a href="https://t.me/AH_Amiiri" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram:%20Amirhossein%20Amiri-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" style="margin-bottom: 5px;" />
+  </a>
 
-<a href="https://discord.com/users/668513995753259039" target="_blank">
-  <img src="https://img.shields.io/badge/Discord:%20akingg-5865F2?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 5px;" />
-</a>
+  <a href="https://discord.com/users/668513995753259039" target="_blank">
+    <img src="https://img.shields.io/badge/Discord:%20akingg-5865F2?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 5px;" />
+  </a>
+</div>
 
 
 [c#-shield]: https://img.shields.io/badge/csharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white
