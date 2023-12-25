@@ -6,7 +6,7 @@
 	
 ## **About me**
 
-<img align="right" src ="https://github.com/Aking16/aking16/blob/main/right_side.gif" width = 250px>
+<img align="right" src ="https://github.com/Aking16/aking16/blob/main/right_side.gif" width=250px>
 
 - 🌱 I am a Frontend Web developer
 - 🥅 I love video games!
@@ -18,7 +18,7 @@
 
 ## **More About Me**:
 
-<img align="right" src ="https://github.com/Aking16/aking16/blob/main/aboutme.gif">
+<img align="right" src ="https://github.com/Aking16/aking16/blob/main/aboutme.gif" width=250px>
 
 - **Languages**:
     
@@ -87,7 +87,7 @@
 
 ## **Contact Me**
 
-<img align="right" src ="https://github.com/Aking16/aking16/blob/main/handshake.gif">
+<img align="right" src ="https://github.com/Aking16/aking16/blob/main/handshake.gif" width=250px>
 
 <a href="https://www.linkedin.com/in/amirhossein-amiri016" target="_blank">
   <img src="https://img.shields.io/badge/linkedin:%20Amirhossein%20Amiri-405DE6?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
