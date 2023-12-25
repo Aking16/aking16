@@ -87,7 +87,7 @@
 
 * [![Linkedin][linkedin-shield]][linkedin-url]
 * [![Gmail][gmail-shield]][gmail-url]
-* [![Telegram][telgram-shield]][telegram-url]
+* [![Telegram][telegram-shield]][telegram-url]
 * [![Discord][discord-shield]][discord-url]
 
 
