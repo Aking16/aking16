@@ -1,7 +1,7 @@
-<h1 align="center"><b>Hi , I'm Amirhossein Amiri </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFBF07&center=true&vCenter=true&random=false&width=450&lines=Hello+World!+I+am+Amirhossein+Amiri.;Front-End+Developer%2C;React+Developer%2C;Software+Engineering+Student%2C;Always+learning+new+things+in+life..." alt="Typing SVG" />
-
+<div align="center">
+  <h1><b>Hi , I'm Amirhossein Amiri </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFBF07&center=true&vCenter=true&random=false&width=450&lines=Hello+World!+I+am+Amirhossein+Amiri.;Front-End+Developer%2C;React+Developer%2C;Software+Engineering+Student%2C;Always+learning+new+things+in+life..." alt="Typing SVG" />
+</div>
 
 	
 ## **About me**
