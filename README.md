@@ -16,8 +16,6 @@
 
 ## **More About Me**:
 
-<img align="right" src ="https://github.com/Aking16/aking16/blob/main/aboutme.gif" width=250px>
-
 - **Languages**:
     
   ![JavaScript][javaScript-shield]
