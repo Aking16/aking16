@@ -87,7 +87,7 @@
   <img src="https://img.shields.io/badge/linkedin:%20Amirhossein%20Amiri-405DE6?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 
-* <a href="mailto: www.aking016@gmail.com" target="_blank">
+* <a href="mailto: amirhossein.amiri.aa99@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/gmail:%20Amirhossein%20Amiri-EA4335?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 
