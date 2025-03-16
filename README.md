@@ -96,10 +96,6 @@
   <img src="https://img.shields.io/badge/Telegram:%20Amirhossein%20Amiri-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" style="margin-bottom: 5px;" />
 </a>
 
-* <a href="https://discord.com/users/668513995753259039" target="_blank">
-  <img src="https://img.shields.io/badge/Discord:%20akingg-5865F2?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 5px;" />
-</a>
-
 
 [c#-shield]: https://img.shields.io/badge/csharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white
 [javaScript-shield]: https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
