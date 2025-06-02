@@ -21,6 +21,7 @@
     
   ![JavaScript][javaScript-shield]
   ![TypeScript][typeScript-shield]
+  ![PHP][php-shield]
   ![C#][c#-shield]
   ![Java][java-shield]
 
@@ -29,8 +30,12 @@
 - **Front-End Development**:
   
   ![React][react-shield]
-  ![Next][next-shield]
 
+
+- **Full-Stack Development**:
+
+  ![Next][next-shield]
+  ![Laravel][Laravel-shield]
 
 
 - **UI Libraries**:
@@ -98,12 +103,14 @@
 
 
 [c#-shield]: https://img.shields.io/badge/csharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white
+[php-shield]: https://img.shields.io/badge/PHP-777BB3?style=for-the-badge&logo=php&logoColor=white
 [javaScript-shield]: https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 [typeScript-shield]: https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
 [java-shield]: https://img.shields.io/badge/java-f89820?style=for-the-badge&logo=java&logoColor=white
 
 [react-shield]: https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black
 [next-shield]: https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[laravel-shield]: https://img.shields.io/badge/Laravel-F7261F?style=for-the-badge&logo=laravel&logoColor=white
 
 
 [tailwind-shield]: https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white
