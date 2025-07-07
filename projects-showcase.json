@@ -1,1 +1,20 @@
-
+[
+  {
+    "name": "Z Platform",
+    "description": "Twitter's clone made with Next.js, Shadcn/UI, Tailwindcss, and Typescript.",
+    "language": "TypeScript",
+    "framework": "Next.js",
+    "image": "https://amiridev.ir/images/z-platform.png",
+    "github": "https://github.com/Aking16/z-platform",
+    "url": null
+  },
+  {
+    "name": "Z Platform Android",
+    "description": "Twitter's clone made with Java and Android SDK.",
+    "language": "Java",
+    "framework": "Android",
+    "image": "https://amiridev.ir/images/z-platform-android.png",
+    "github": "https://github.com/Aking16/z-platform-android",
+    "url": null
+  }
+]
