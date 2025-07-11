@@ -1,20 +1,89 @@
-[
-  {
-    "name": "Z Platform",
-    "description": "Twitter's clone made with Next.js, Shadcn/UI, Tailwindcss, and Typescript.",
-    "language": "TypeScript",
-    "framework": "Next.js",
-    "image": "https://amiridev.ir/images/z-platform.png",
-    "github": "https://github.com/Aking16/z-platform",
-    "url": null
-  },
-  {
-    "name": "Z Platform Android",
-    "description": "Twitter's clone made with Java and Android SDK.",
-    "language": "Java",
-    "framework": "Android",
-    "image": "https://amiridev.ir/images/z-platform-android.png",
-    "github": "https://github.com/Aking16/z-platform-android",
-    "url": null
+{
+  "projects": [
+    {
+      "name": "Learning Management System",
+      "description": "A scalable web app built with Next.js for managing student enrollment, tuition payments, class and instructor registration, and institutional performance, with secure login and customizable themes.",
+      "language": "TypeScript",
+      "framework": "Next.js",
+      "image": "https://raw.githubusercontent.com/Aking16/aking16/refs/heads/main/showcase/lms.png",
+      "github": null,
+      "url": null
+    },
+    {
+      "name": "Vs Azmozesh",
+      "description": "A scalable web app built with Next.js for selling courses, hosting festivals, managing exams, and issuing certificates using SPA technologies.",
+      "language": "TypeScript",
+      "framework": "Next.js",
+      "image": "https://raw.githubusercontent.com/Aking16/aking16/refs/heads/main/showcase/vsamozesh.png",
+      "github": null,
+      "url": "https://vsamozesh.ir/"
+    },
+    {
+      "name": "AI Agent",
+      "description": "Developed a user interface for an AI Agent and integrated it with existing systems to automate and optimize internal operations, focusing on seamless UX and smart workflows.",
+      "language": "TypeScript",
+      "framework": "Next.js",
+      "image": "https://raw.githubusercontent.com/Aking16/aking16/f5b01fe1c8bd2c7caa4aeaac1b06ae740419771b/showcase/ai-agent.png",
+      "github": null,
+      "url": null
+    },
+    {
+      "name": "Mikrotik Dashboard (HotspotX)",
+      "description": "SPA project integrated with Mikrotik Hotspot for user login, featuring task management, organizational news, daily updates, currency converter, crypto rates, favorites, weather display, and more...",
+      "language": "TypeScript",
+      "framework": "React",
+      "image": "https://raw.githubusercontent.com/Aking16/aking16/refs/heads/main/showcase/hotspotx.png",
+      "github": null,
+      "url": "https://parspeak.github.io/hotspotx-demo/"
+    },
+    {
+      "name": "HotspotX Extension",
+      "description": "SPA project as a Chrome and Firefox extension, featuring task management, organizational news, daily updates, currency converter, crypto rates, favorites, weather display, and more...",
+      "language": "TypeScript",
+      "framework": "React",
+      "image": "https://raw.githubusercontent.com/Aking16/aking16/refs/heads/main/showcase/hotspotx-extension.png",
+      "github": null,
+      "url": "https://parspeak.github.io/hotspotx-demo/"
+    },
+    {
+      "name": "E-commerce Laravel API",
+      "description": "Scalable and robust backend API built with Laravel, supporting product catalog management, shopping cart functionality, discount and promotion handling, and secure user authentication.",
+      "language": "PHP",
+      "framework": "Laravel",
+      "image": "https://raw.githubusercontent.com/Aking16/aking16/refs/heads/main/showcase/laravel.jpg",
+      "github": null,
+      "url": null
+    },
+    {
+      "name": "Z Platform",
+      "description": "Twitter's clone made with Next.js, Shadcn/UI, Tailwindcss, and Typescript.",
+      "language": "TypeScript",
+      "framework": "Next.js",
+      "image": "https://raw.githubusercontent.com/Aking16/aking16/refs/heads/main/showcase/z-platform.png",
+      "github": "https://github.com/Aking16/z-platform",
+      "url": null
+    },
+    {
+      "name": "Z Platform Android",
+      "description": "Twitter's clone made with Java and Android SDK.",
+      "language": "Java",
+      "framework": "Android",
+      "image": "https://raw.githubusercontent.com/Aking16/aking16/refs/heads/main/showcase/z-platform-android.png",
+      "github": "https://github.com/Aking16/z-platform-android",
+      "url": null
+    }
+  ],
+  "meta_data": {
+    "languages": [
+      "TypeScript",
+      "Java",
+      "PHP"
+    ],
+    "tech": [
+      "Next.js",
+      "React",
+      "Android",
+      "Laravel"
+    ]
   }
-]
+}
