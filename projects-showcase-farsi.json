@@ -3,25 +3,25 @@
     {
       "name": "سامانه مدیریت آموزش",
       "description": "یک اپلیکیشن وب مقیاس‌پذیر ساخته‌شده با Next.js برای مدیریت ثبت‌نام دانشجویان، پرداخت شهریه، ثبت کلاس‌ها و اساتید، و ارزیابی عملکرد مؤسسه با ورود امن و قابلیت شخصی‌سازی پوسته.",
-      "language": "تایپ‌اسکریپت",
+      "language": "TypeScript",
       "framework": "Next.js",
       "image": "https://raw.githubusercontent.com/Aking16/aking16/refs/heads/main/showcase/lms.png",
       "github": null,
       "url": null
     },
     {
-      "name": "وی‌اس آموزش",
+      "name": "وی‌ اس آموزش",
       "description": "یک اپلیکیشن وب مقیاس‌پذیر با استفاده از Next.js برای فروش دوره‌ها، میزبانی جشنواره‌ها، مدیریت آزمون‌ها و صدور گواهی‌نامه با استفاده از تکنولوژی‌های SPA.",
-      "language": "تایپ‌اسکریپت",
+      "language": "TypeScript",
       "framework": "Next.js",
       "image": "https://raw.githubusercontent.com/Aking16/aking16/refs/heads/main/showcase/vsamozesh.png",
       "github": null,
       "url": "https://vsamozesh.ir/"
     },
     {
-      "name": "عامل هوش مصنوعی",
-      "description": "طراحی رابط کاربری برای یک عامل هوش مصنوعی و یکپارچه‌سازی آن با سیستم‌های موجود برای خودکارسازی و بهینه‌سازی عملیات‌های داخلی با تمرکز بر تجربه کاربری روان و گردش‌کار هوشمند.",
-      "language": "تایپ‌اسکریپت",
+      "name": "دستیار هوش مصنوعی",
+      "description": "طراحی رابط کاربری برای یک دستیار هوش مصنوعی و یکپارچه‌سازی آن با سیستم‌های موجود برای خودکارسازی و بهینه‌سازی عملیات‌های داخلی با تمرکز بر تجربه کاربری روان و گردش‌کار هوشمند.",
+      "language": "TypeScript",
       "framework": "Next.js",
       "image": "https://raw.githubusercontent.com/Aking16/aking16/f5b01fe1c8bd2c7caa4aeaac1b06ae740419771b/showcase/ai-agent.png",
       "github": null,
@@ -30,8 +30,8 @@
     {
       "name": "داشبورد میکروتیک (HotspotX)",
       "description": "پروژه SPA یکپارچه با Mikrotik Hotspot برای ورود کاربران، شامل مدیریت وظایف، اخبار سازمانی، به‌روزرسانی‌های روزانه، مبدل ارز، نرخ‌های رمزارز، علاقه‌مندی‌ها، نمایش آب‌وهوا و امکانات بیشتر...",
-      "language": "تایپ‌اسکریپت",
-      "framework": "ری‌اکت",
+      "language": "TypeScript",
+      "framework": "React",
       "image": "https://raw.githubusercontent.com/Aking16/aking16/refs/heads/main/showcase/hotspotx.png",
       "github": null,
       "url": "https://parspeak.github.io/hotspotx-demo/"
@@ -39,8 +39,8 @@
     {
       "name": "افزونه HotspotX",
       "description": "پروژه SPA به‌صورت افزونه برای مرورگرهای کروم و فایرفاکس، شامل مدیریت وظایف، اخبار سازمانی، به‌روزرسانی‌های روزانه، مبدل ارز، نرخ‌های رمزارز، علاقه‌مندی‌ها، نمایش آب‌وهوا و امکانات بیشتر...",
-      "language": "تایپ‌اسکریپت",
-      "framework": "ری‌اکت",
+      "language": "TypeScript",
+      "framework": "React",
       "image": "https://raw.githubusercontent.com/Aking16/aking16/refs/heads/main/showcase/hotspotx-extension.png",
       "github": null,
       "url": "https://parspeak.github.io/hotspotx-demo/"
@@ -48,16 +48,16 @@
     {
       "name": "API فروشگاه آنلاین با لاراول",
       "description": "یک API بک‌اند مقیاس‌پذیر و قدرتمند ساخته‌شده با لاراول، پشتیبانی از مدیریت محصولات، سبد خرید، اعمال تخفیف‌ها و پروموشن‌ها، و احراز هویت امن کاربران.",
-      "language": "پی‌اچ‌پی",
-      "framework": "لاراول",
+      "language": "PHP",
+      "framework": "Laravel",
       "image": "https://raw.githubusercontent.com/Aking16/aking16/refs/heads/main/showcase/laravel.jpg",
       "github": null,
       "url": null
     },
     {
       "name": "پلتفرم Z",
-      "description": "کلون توییتر ساخته‌شده با Next.js، Shadcn/UI، Tailwindcss و تایپ‌اسکریپت.",
-      "language": "تایپ‌اسکریپت",
+      "description": "کلون توییتر ساخته‌شده با Next.js، Shadcn/UI، Tailwindcss و TypeScript.",
+      "language": "TypeScript",
       "framework": "Next.js",
       "image": "https://raw.githubusercontent.com/Aking16/aking16/refs/heads/main/showcase/z-platform.png",
       "github": "https://github.com/Aking16/z-platform",
@@ -65,9 +65,9 @@
     },
     {
       "name": "پلتفرم Z نسخه اندروید",
-      "description": "کلون توییتر ساخته‌شده با جاوا و Android SDK.",
-      "language": "جاوا",
-      "framework": "اندروید",
+      "description": "کلون توییتر ساخته‌شده با Java و Android SDK.",
+      "language": "Java",
+      "framework": "Android",
       "image": "https://raw.githubusercontent.com/Aking16/aking16/refs/heads/main/showcase/z-platform-android.png",
       "github": "https://github.com/Aking16/z-platform-android",
       "url": null
@@ -75,15 +75,15 @@
   ],
   "meta_data": {
     "languages": [
-      "تایپ‌اسکریپت",
-      "جاوا",
-      "پی‌اچ‌پی"
+      "TypeScript",
+      "Java",
+      "PHP"
     ],
     "tech": [
       "Next.js",
-      "ری‌اکت",
-      "اندروید",
-      "لاراول"
+      "React",
+      "Android",
+      "Laravel"
     ]
   }
 }
