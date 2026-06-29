@@ -71,13 +71,324 @@
       "image": "https://raw.githubusercontent.com/Aking16/aking16/refs/heads/main/showcase/z-platform-android.png",
       "github": "https://github.com/Aking16/z-platform-android",
       "url": null
+    },
+    {
+      "name": "aking16",
+      "description": null,
+      "language": null,
+      "framework": null,
+      "image": null,
+      "github": "https://github.com/Aking16/aking16",
+      "url": null
+    },
+    {
+      "name": "Application-Bot",
+      "description": null,
+      "language": "JavaScript",
+      "framework": null,
+      "image": null,
+      "github": "https://github.com/Aking16/Application-Bot",
+      "url": null
+    },
+    {
+      "name": "auth-sample",
+      "description": "Auth Sample for Next.js",
+      "language": "TypeScript",
+      "framework": null,
+      "image": null,
+      "github": "https://github.com/Aking16/auth-sample",
+      "url": null
+    },
+    {
+      "name": "BCGSuiteTest",
+      "description": null,
+      "language": "C++",
+      "framework": null,
+      "image": null,
+      "github": "https://github.com/Aking16/BCGSuiteTest",
+      "url": null
+    },
+    {
+      "name": "BlogStrapi-cms",
+      "description": "Content Management System (CMS) with Strapi for BlogStrapi web application",
+      "language": "JavaScript",
+      "framework": null,
+      "image": null,
+      "github": "https://github.com/Aking16/BlogStrapi-cms",
+      "url": null
+    },
+    {
+      "name": "BlogStrapi-nextjs-ui",
+      "description": null,
+      "language": "TypeScript",
+      "framework": null,
+      "image": null,
+      "github": "https://github.com/Aking16/BlogStrapi-nextjs-ui",
+      "url": "https://blog-strapi-nextjs-ui.vercel.app"
+    },
+    {
+      "name": "calendar",
+      "description": "A lightweight React Jalali/Georgian calendar component with events",
+      "language": "TypeScript",
+      "framework": null,
+      "image": null,
+      "github": "https://github.com/Aking16/calendar",
+      "url": null
+    },
+    {
+      "name": "ecommerce-front",
+      "description": null,
+      "language": "TypeScript",
+      "framework": null,
+      "image": null,
+      "github": "https://github.com/Aking16/ecommerce-front",
+      "url": null
+    },
+    {
+      "name": "Hokm-Game",
+      "description": null,
+      "language": "TypeScript",
+      "framework": null,
+      "image": null,
+      "github": "https://github.com/Aking16/Hokm-Game",
+      "url": null
+    },
+    {
+      "name": "hokm-game-backend",
+      "description": "Backend for my hokm game",
+      "language": "TypeScript",
+      "framework": null,
+      "image": null,
+      "github": "https://github.com/Aking16/hokm-game-backend",
+      "url": null
+    },
+    {
+      "name": "Jober",
+      "description": "Job finding android application with Java",
+      "language": "Java",
+      "framework": null,
+      "image": null,
+      "github": "https://github.com/Aking16/Jober",
+      "url": null
+    },
+    {
+      "name": "LaraChat",
+      "description": null,
+      "language": "JavaScript",
+      "framework": null,
+      "image": null,
+      "github": "https://github.com/Aking16/LaraChat",
+      "url": null
+    },
+    {
+      "name": "laravel-ecommerce-api",
+      "description": null,
+      "language": "Blade",
+      "framework": null,
+      "image": null,
+      "github": "https://github.com/Aking16/laravel-ecommerce-api",
+      "url": null
+    },
+    {
+      "name": "laravel-todo-api",
+      "description": "A simple todo API server with Laravel",
+      "language": "Blade",
+      "framework": null,
+      "image": null,
+      "github": "https://github.com/Aking16/laravel-todo-api",
+      "url": null
+    },
+    {
+      "name": "MasterVercelRelay",
+      "description": null,
+      "language": "JavaScript",
+      "framework": null,
+      "image": null,
+      "github": "https://github.com/Aking16/MasterVercelRelay",
+      "url": "https://master-vercel-relay.vercel.app"
+    },
+    {
+      "name": "messenger-backend-nestjs",
+      "description": null,
+      "language": "TypeScript",
+      "framework": null,
+      "image": null,
+      "github": "https://github.com/Aking16/messenger-backend-nestjs",
+      "url": null
+    },
+    {
+      "name": "min-med-max-image-filter-py",
+      "description": "Minimum, median and maximum filter on image with Python ",
+      "language": "Python",
+      "framework": null,
+      "image": null,
+      "github": "https://github.com/Aking16/min-med-max-image-filter-py",
+      "url": null
+    },
+    {
+      "name": "my-app-interview",
+      "description": null,
+      "language": "TypeScript",
+      "framework": null,
+      "image": null,
+      "github": "https://github.com/Aking16/my-app-interview",
+      "url": null
+    },
+    {
+      "name": "nest-todo-app",
+      "description": null,
+      "language": "TypeScript",
+      "framework": null,
+      "image": null,
+      "github": "https://github.com/Aking16/nest-todo-app",
+      "url": null
+    },
+    {
+      "name": "notes-app",
+      "description": null,
+      "language": "TypeScript",
+      "framework": null,
+      "image": null,
+      "github": "https://github.com/Aking16/notes-app",
+      "url": null
+    },
+    {
+      "name": "number-guesser-python",
+      "description": "A quick game written in python",
+      "language": "Python",
+      "framework": null,
+      "image": null,
+      "github": "https://github.com/Aking16/number-guesser-python",
+      "url": null
+    },
+    {
+      "name": "page-transitions",
+      "description": "Page transition effect in your website!",
+      "language": null,
+      "framework": null,
+      "image": null,
+      "github": "https://github.com/Aking16/page-transitions",
+      "url": null
+    },
+    {
+      "name": "Python-Exercises",
+      "description": "Few exercises with Python",
+      "language": "Python",
+      "framework": null,
+      "image": null,
+      "github": "https://github.com/Aking16/Python-Exercises",
+      "url": null
+    },
+    {
+      "name": "Python-Exercises-2",
+      "description": null,
+      "language": "Python",
+      "framework": null,
+      "image": null,
+      "github": "https://github.com/Aking16/Python-Exercises-2",
+      "url": null
+    },
+    {
+      "name": "React-Architecture-Firm",
+      "description": "A React Template ",
+      "language": "JavaScript",
+      "framework": null,
+      "image": null,
+      "github": "https://github.com/Aking16/React-Architecture-Firm",
+      "url": null
+    },
+    {
+      "name": "React-Fast-Food",
+      "description": null,
+      "language": "JavaScript",
+      "framework": null,
+      "image": null,
+      "github": "https://github.com/Aking16/React-Fast-Food",
+      "url": null
+    },
+    {
+      "name": "spa-vanila-js",
+      "description": "Single Page Application with just Javascript",
+      "language": "JavaScript",
+      "framework": null,
+      "image": null,
+      "github": "https://github.com/Aking16/spa-vanila-js",
+      "url": null
+    },
+    {
+      "name": "SSH-Penetration-Challenge",
+      "description": null,
+      "language": "TypeScript",
+      "framework": null,
+      "image": null,
+      "github": "https://github.com/Aking16/SSH-Penetration-Challenge",
+      "url": null
+    },
+    {
+      "name": "timify",
+      "description": null,
+      "language": "TypeScript",
+      "framework": null,
+      "image": null,
+      "github": "https://github.com/Aking16/timify",
+      "url": null
+    },
+    {
+      "name": "weather-tui",
+      "description": "A Terminal User Interface for checking the weather",
+      "language": "TypeScript",
+      "framework": null,
+      "image": null,
+      "github": "https://github.com/Aking16/weather-tui",
+      "url": null
+    },
+    {
+      "name": "webscanner-public",
+      "description": null,
+      "language": "HTML",
+      "framework": null,
+      "image": null,
+      "github": "https://github.com/Aking16/webscanner-public",
+      "url": null
+    },
+    {
+      "name": "windows-web-simulator",
+      "description": "Web simulator of the Microsoft Windows with Nextjs",
+      "language": "TypeScript",
+      "framework": null,
+      "image": null,
+      "github": "https://github.com/Aking16/windows-web-simulator",
+      "url": "https://aking16.github.io/windows-web-simulator/"
+    },
+    {
+      "name": "z-platform",
+      "description": "Twitter Clone made by NextJS",
+      "language": "TypeScript",
+      "framework": null,
+      "image": null,
+      "github": "https://github.com/Aking16/z-platform",
+      "url": "https://z-platform-sable.vercel.app"
+    },
+    {
+      "name": "z-platform-android",
+      "description": "Twitter Clone written with Java",
+      "language": "Java",
+      "framework": null,
+      "image": null,
+      "github": "https://github.com/Aking16/z-platform-android",
+      "url": null
     }
   ],
   "meta_data": {
     "languages": [
       "TypeScript",
       "Java",
-      "PHP"
+      "PHP",
+      "JavaScript",
+      "C++",
+      "Blade",
+      "Python",
+      "HTML"
     ],
     "tech": [
       "Next.js",
